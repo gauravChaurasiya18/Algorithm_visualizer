@@ -94,7 +94,7 @@ class Deque {
   }
 }
 
-// create grid like struccture using table.
+
 const init = () => {
   const allowDrop = (e) => {
     e.preventDefault();
@@ -149,7 +149,6 @@ const init = () => {
 
       for (let j = 0; j < cols; j++) {
         let cell = tr.appendChild(document.createElement('td'));
-        // Unique ID for each cell. if row or cell number is single digit then put 0 infront of it.
         cell.id = 'r' + ('0' + i).slice(-2) + 'c' + ('0' + j).slice(-2);
 
         if (i == startingPointX && j == startingPointY) {
@@ -208,7 +207,6 @@ init();
 const isValid = (x, y) => {
   return x >= 0 && y >= 0 && x < rows && y < cols;
 };
-// to put delay between visualization.
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
