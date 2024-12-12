@@ -6,7 +6,11 @@
 
 >```Algorithm Visualizer``` is an interactive way and platform that visualize the algorithms in four main domain i.e. Trie data structure, Binary Search Tree, Path Finding and Sort Visual algorithm. The project focuses on visualizng 📊 the algorithm and try to make easier to understand and learn the algorithm.
 
+<<<<<<< HEAD
 Author : [Gaurav CHaurasiya ](gaurav182005@gmail.com)
+=======
+Author : [Gaurav Chaurasiya ](gaurav182005@gmail.com)
+>>>>>>> 9c0f4c98722502ee53103ff2b2fe8c77dceaa850
 
 <img src="https://media2.giphy.com/media/6wa5vuYvetU1Jibm13/giphy.gif?cid=ecf05e47ot9ej3657scll8evgmu0okov4ehohagfunabol8j&rid=giphy.gif&ct=g" height="350px" width="100%" >
 
